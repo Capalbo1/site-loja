@@ -3,4 +3,4 @@
 
  estou aprendendo a montar sites e agora vou gerenciar meus repositórios 
 
- <a href:="https://>
+ <a href:="https://capalbo1.github.io/site-loja/">
